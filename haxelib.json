@@ -1,0 +1,11 @@
+{
+    "name": "morsecodeLib",
+    "url" : "https://github.com/limiteddata/MorseCodeHaxe/",
+    "license": "MIT",
+    "tags": ["morse", "translator"],
+    "description": "This is a to encode end decode messages in morse code.",
+    "version": "1.0.0",
+    "releasenote": "Initial release.",
+    "contributors": ["limiteddata"],
+    "dependencies": {}
+  }
